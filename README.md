@@ -1,9 +1,10 @@
 # FrenchProgKeyboardLayout_Linux
 
-Custom .Xmodmap keyboard layout for French and coding, based on the Français (Canada) layout.
-Clavier personnalisé .Xmodmap pour français et programmation, basé sur le clavier Français (Canada). 
+Custom .Xmodmap keyboard layout for French and coding, based on the Français (Canada) layout. For access to " " and « » <br />
+Clavier personnalisé .Xmodmap pour français et programmation, basé sur le clavier Français (Canada). Permet d'avoir accès aux guillemets anglais et français et aux accents. <br />
 For Linux.
-Place the file in home directory.
+
+Place the file in home directory. <br />
 
 Execute configuration:
 $ xmodmap ~/.Xmodmap
